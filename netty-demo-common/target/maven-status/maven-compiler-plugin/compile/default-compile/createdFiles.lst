@@ -1,0 +1,8 @@
+org\example\minio\MinioConfiguration.class
+org\example\sorl\ProductRepository.class
+org\example\sorl\springData\ProductRepository03.class
+org\example\sorl\springData\ProductRepository02.class
+org\example\minio\MinioComp.class
+org\example\sorl\SolrProductDO.class
+org\example\App.class
+META-INF\spring-configuration-metadata.json

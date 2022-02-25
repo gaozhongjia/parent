@@ -1,0 +1,18 @@
+spring:
+  data:
+    # Spring Data Solr 配置项，对应 SolrProperties 配置类
+    solr:
+      host: 'http://116.62.15.61:8983/solr' # Solr 服务器地址
+
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  #minio配置
+  minio:
+    access-key: AKIAIOSFODNN7EXAMPLE      #key就是docker初始化是设置的，密钥相同
+    secret-key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+    url: http://116.62.15.61:9000
+    bucket-name: wdhcr
+  thymeleaf:
+    cache: false

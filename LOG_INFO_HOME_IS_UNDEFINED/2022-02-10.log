@@ -1,0 +1,118 @@
+[2022-02-10 09:23:59.059] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting App on MTC-20211130FMH with PID 24572 (D:\project\gzj\parent\springcloud-demo-getway\target\classes started by gaozj in D:\project\gzj\parent)
+[2022-02-10 09:23:59.059] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2022-02-10 09:23:59.059] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [249] [INFO ] Multiple Spring Data modules found, entering strict repository configuration mode!
+[2022-02-10 09:23:59.059] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [127] [INFO ] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2022-02-10 09:24:00.000] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [187] [INFO ] Finished Spring Data repository scanning in 31ms. Found 0 Redis repository interfaces.
+[2022-02-10 09:24:00.000] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [92] [INFO ] Tomcat initialized with port(s): 8888 (http)
+[2022-02-10 09:24:00.000] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8888"]
+[2022-02-10 09:24:00.000] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-02-10 09:24:00.000] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.30]
+[2022-02-10 09:24:00.000] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-02-10 09:24:00.000] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [284] [INFO ] Root WebApplicationContext: initialization completed in 1315 ms
+[2022-02-10 09:24:01.001] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-10 09:24:01.001] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'taskScheduler'
+[2022-02-10 09:24:01.001] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8888"]
+[2022-02-10 09:24:01.001] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8888 (http) with context path ''
+[2022-02-10 09:24:01.001] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started App in 2.932 seconds (JVM running for 3.984)
+[2022-02-10 09:25:10.010] [org.apache.juli.logging.DirectJDKLog] [http-nio-8888-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-10 09:25:10.010] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8888-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2022-02-10 09:25:10.010] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8888-exec-1] [547] [INFO ] Completed initialization in 10 ms
+[2022-02-10 09:25:10.010] [io.lettuce.core.EpollProvider] [http-nio-8888-exec-1] [68] [INFO ] Starting without optional epoll library
+[2022-02-10 09:25:10.010] [io.lettuce.core.KqueueProvider] [http-nio-8888-exec-1] [70] [INFO ] Starting without optional kqueue library
+[2022-02-10 09:25:15.015] [org.example.test.yanchiduilie.NoticeTask] [redis-delay-task] [20] [INFO ] task execute, RedisDelayTask{id='notice-task', value='notice-task-value', delayTime=5}
+[2022-02-10 09:25:21.021] [org.example.test.yanchiduilie.NoticeTask] [redis-delay-task] [20] [INFO ] task execute, RedisDelayTask{id='notice-task2', value='notice-task-value2', delayTime=10}
+[2022-02-10 09:26:37.037] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'taskScheduler'
+[2022-02-10 09:26:37.037] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-10 09:26:50.050] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting App on MTC-20211130FMH with PID 1196 (D:\project\gzj\parent\springcloud-demo-getway\target\classes started by gaozj in D:\project\gzj\parent)
+[2022-02-10 09:26:50.050] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2022-02-10 09:26:50.050] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [249] [INFO ] Multiple Spring Data modules found, entering strict repository configuration mode!
+[2022-02-10 09:26:50.050] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [127] [INFO ] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2022-02-10 09:26:50.050] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [187] [INFO ] Finished Spring Data repository scanning in 23ms. Found 0 Redis repository interfaces.
+[2022-02-10 09:26:51.051] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [92] [INFO ] Tomcat initialized with port(s): 8888 (http)
+[2022-02-10 09:26:51.051] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8888"]
+[2022-02-10 09:26:51.051] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-02-10 09:26:51.051] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.30]
+[2022-02-10 09:26:51.051] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-02-10 09:26:51.051] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [284] [INFO ] Root WebApplicationContext: initialization completed in 1059 ms
+[2022-02-10 09:26:51.051] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-10 09:26:51.051] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'taskScheduler'
+[2022-02-10 09:26:51.051] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8888"]
+[2022-02-10 09:26:51.051] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8888 (http) with context path ''
+[2022-02-10 09:26:51.051] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started App in 2.418 seconds (JVM running for 3.338)
+[2022-02-10 09:30:57.057] [org.apache.juli.logging.DirectJDKLog] [http-nio-8888-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-10 09:30:57.057] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8888-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2022-02-10 09:30:57.057] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8888-exec-1] [547] [INFO ] Completed initialization in 13 ms
+[2022-02-10 09:30:57.057] [io.lettuce.core.EpollProvider] [http-nio-8888-exec-1] [68] [INFO ] Starting without optional epoll library
+[2022-02-10 09:30:57.057] [io.lettuce.core.KqueueProvider] [http-nio-8888-exec-1] [70] [INFO ] Starting without optional kqueue library
+[2022-02-10 09:31:02.002] [org.example.test.yanchiduilie.NoticeTask] [redis-delay-task] [20] [INFO ] task execute, RedisDelayTask{id='notice-task', value='notice-task-value', delayTime=5}
+[2022-02-10 09:31:08.008] [org.example.test.yanchiduilie.NoticeTask] [redis-delay-task] [20] [INFO ] task execute, RedisDelayTask{id='notice-task2', value='notice-task-value2', delayTime=10}
+[2022-02-10 09:38:01.001] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'taskScheduler'
+[2022-02-10 09:38:01.001] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-10 09:38:07.007] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting App on MTC-20211130FMH with PID 11856 (D:\project\gzj\parent\springcloud-demo-getway\target\classes started by gaozj in D:\project\gzj\parent)
+[2022-02-10 09:38:07.007] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2022-02-10 09:38:08.008] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [249] [INFO ] Multiple Spring Data modules found, entering strict repository configuration mode!
+[2022-02-10 09:38:08.008] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [127] [INFO ] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2022-02-10 09:38:08.008] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [187] [INFO ] Finished Spring Data repository scanning in 24ms. Found 0 Redis repository interfaces.
+[2022-02-10 09:38:08.008] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [92] [INFO ] Tomcat initialized with port(s): 8888 (http)
+[2022-02-10 09:38:08.008] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8888"]
+[2022-02-10 09:38:08.008] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-02-10 09:38:08.008] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.30]
+[2022-02-10 09:38:08.008] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-02-10 09:38:08.008] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [284] [INFO ] Root WebApplicationContext: initialization completed in 1076 ms
+[2022-02-10 09:38:09.009] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-10 09:38:09.009] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'taskScheduler'
+[2022-02-10 09:38:09.009] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8888"]
+[2022-02-10 09:38:09.009] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8888 (http) with context path ''
+[2022-02-10 09:38:09.009] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started App in 2.463 seconds (JVM running for 3.414)
+[2022-02-10 09:38:13.013] [org.apache.juli.logging.DirectJDKLog] [http-nio-8888-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-10 09:38:13.013] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8888-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2022-02-10 09:38:13.013] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8888-exec-1] [547] [INFO ] Completed initialization in 12 ms
+[2022-02-10 09:38:13.013] [io.lettuce.core.EpollProvider] [http-nio-8888-exec-1] [68] [INFO ] Starting without optional epoll library
+[2022-02-10 09:38:13.013] [io.lettuce.core.KqueueProvider] [http-nio-8888-exec-1] [70] [INFO ] Starting without optional kqueue library
+[2022-02-10 09:38:24.024] [org.example.test.yanchiduilie.NoticeTask] [redis-delay-task] [20] [INFO ] task execute, RedisDelayTask{id='notice-task2', value='notice-task-value2', delayTime=10}
+[2022-02-10 09:43:13.013] [org.example.test.yanchiduilie.NoticeTask] [redis-delay-task] [20] [INFO ] task execute, RedisDelayTask{id='notice-task', value='notice-task-value', delayTime=300}
+[2022-02-10 13:57:22.022] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'taskScheduler'
+[2022-02-10 13:57:22.022] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-10 14:00:23.023] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting App on MTC-20211130FMH with PID 2100 (D:\project\gzj\parent\springcloud-demo-getway\target\classes started by gaozj in D:\project\gzj\parent)
+[2022-02-10 14:00:23.023] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2022-02-10 14:00:23.023] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [249] [INFO ] Multiple Spring Data modules found, entering strict repository configuration mode!
+[2022-02-10 14:00:23.023] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [127] [INFO ] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2022-02-10 14:00:23.023] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [187] [INFO ] Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+[2022-02-10 14:00:24.024] [org.springframework.context.support.AbstractApplicationContext] [main] [558] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'placeholderConfigurer' defined in class path resource [org/example/test/getYml/PropertyConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.context.support.PropertySourcesPlaceholderConfigurer]: Factory method 'placeholderConfigurer' threw exception; nested exception is java.lang.IllegalStateException: java.io.FileNotFoundException: class path resource [application2.yml] cannot be opened because it does not exist
+[2022-02-10 14:00:24.024] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener] [main] [136] [INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-02-10 14:00:50.050] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting App on MTC-20211130FMH with PID 2552 (D:\project\gzj\parent\springcloud-demo-getway\target\classes started by gaozj in D:\project\gzj\parent)
+[2022-02-10 14:00:50.050] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2022-02-10 14:00:51.051] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [249] [INFO ] Multiple Spring Data modules found, entering strict repository configuration mode!
+[2022-02-10 14:00:51.051] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [127] [INFO ] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2022-02-10 14:00:51.051] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [187] [INFO ] Finished Spring Data repository scanning in 28ms. Found 0 Redis repository interfaces.
+[2022-02-10 14:00:52.052] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [92] [INFO ] Tomcat initialized with port(s): 8888 (http)
+[2022-02-10 14:00:52.052] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8888"]
+[2022-02-10 14:00:52.052] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-02-10 14:00:52.052] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.30]
+[2022-02-10 14:00:52.052] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-02-10 14:00:52.052] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [284] [INFO ] Root WebApplicationContext: initialization completed in 1163 ms
+[2022-02-10 14:00:52.052] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-10 14:00:52.052] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'taskScheduler'
+[2022-02-10 14:00:52.052] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8888"]
+[2022-02-10 14:00:52.052] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8888 (http) with context path ''
+[2022-02-10 14:00:52.052] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started App in 2.607 seconds (JVM running for 3.553)
+[2022-02-10 14:05:33.033] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'taskScheduler'
+[2022-02-10 14:05:33.033] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-10 14:05:37.037] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting App on MTC-20211130FMH with PID 15044 (D:\project\gzj\parent\springcloud-demo-getway\target\classes started by gaozj in D:\project\gzj\parent)
+[2022-02-10 14:05:37.037] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2022-02-10 14:05:38.038] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [249] [INFO ] Multiple Spring Data modules found, entering strict repository configuration mode!
+[2022-02-10 14:05:38.038] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [127] [INFO ] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2022-02-10 14:05:38.038] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [187] [INFO ] Finished Spring Data repository scanning in 26ms. Found 0 Redis repository interfaces.
+[2022-02-10 14:05:38.038] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [92] [INFO ] Tomcat initialized with port(s): 8888 (http)
+[2022-02-10 14:05:38.038] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8888"]
+[2022-02-10 14:05:38.038] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-02-10 14:05:38.038] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.30]
+[2022-02-10 14:05:38.038] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-02-10 14:05:38.038] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [284] [INFO ] Root WebApplicationContext: initialization completed in 1104 ms
+[2022-02-10 14:05:39.039] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-10 14:05:39.039] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'taskScheduler'
+[2022-02-10 14:05:39.039] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8888"]
+[2022-02-10 14:05:39.039] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8888 (http) with context path ''
+[2022-02-10 14:05:39.039] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started App in 2.51 seconds (JVM running for 3.55)
