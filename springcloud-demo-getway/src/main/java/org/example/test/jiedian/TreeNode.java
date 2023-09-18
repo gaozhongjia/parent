@@ -58,7 +58,7 @@ public class TreeNode<T> {
 
 
     // 使用
-/*    public List<TreeNode<AuthResource>> toTree() {
+ /*   public List<TreeNode<AuthResource>> toTree() {
         //获取数据集合
         List<AuthResource> list = authResourceRepository.findAll();
         //创建工具类

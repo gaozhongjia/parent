@@ -46,7 +46,7 @@ public class Singleton2 {
 
 
 
-    // 加入volatile
+    // 加入v  olatile
     private volatile static Singleton2 instance2 = null;
 
     public static Singleton2 getInstance4(){

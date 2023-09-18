@@ -1,0 +1,9 @@
+
+x
+java:S4144"[Update this method so that its implementation is not identical to "getInstance" on line 13.(ü³óì8¬ÂØ¯û0
+t
+java:S30772"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(’î¬æ8µÂØ¯û0
+V
+java:S2168%"9Remove this dangerous instance of double-checked locking.(ë­»Ñ8ËÂØ¯û0
+b
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(’î¬æ8ÎÂØ¯û0

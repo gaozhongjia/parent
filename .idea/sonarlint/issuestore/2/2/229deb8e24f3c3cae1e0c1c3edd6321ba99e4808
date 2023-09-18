@@ -1,0 +1,19 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³şËúÿÿÿÿ8œÑ–Ÿ1
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(’ï÷¼ıÿÿÿÿ8€‡Ï–Ÿ1
+J
+java:S1659"(Declare "arrayIndex" on a separate line.(•öì›ıÿÿÿÿ8—‡Ï–Ÿ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•öì›ıÿÿÿÿ8œ‡Ï–Ÿ1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8²Ñ–Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(” É­şÿÿÿÿ8´Ñ–Ÿ1
+a
+java:S16594"?Declare "p2" and all following declarations on a separate line.(‚€€¯şÿÿÿÿ8ºÑ–Ÿ1
+g
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(‚€€¯şÿÿÿÿ8ºÑ–Ÿ1
+g
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(éÑäõüÿÿÿÿ8»Ñ–Ÿ1
+X	java:S1258"<This block of commented-out lines of code should be removed.(™…×î8»Ñ–Ÿ1
+]	java:S125;"<This block of commented-out lines of code should be removed.(°Ëå°ûÿÿÿÿ8»Ñ–Ÿ1

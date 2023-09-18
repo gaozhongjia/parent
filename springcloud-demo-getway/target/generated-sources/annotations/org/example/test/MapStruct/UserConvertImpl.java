@@ -4,8 +4,8 @@ import javax.annotation.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-03-21T10:36:34+0800",
-    comments = "version: 1.4.2.Final, compiler: javac, environment: Java 1.8.0_162 (Oracle Corporation)"
+    date = "2023-09-11T16:04:15+0800",
+    comments = "version: 1.4.2.Final, compiler: javac, environment: Java 1.8.0_333 (Oracle Corporation)"
 )
 public class UserConvertImpl implements UserConvert {
 

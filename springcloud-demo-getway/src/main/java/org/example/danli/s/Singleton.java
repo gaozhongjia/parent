@@ -16,7 +16,7 @@ public class Singleton {
     }  
   
     /* 获取实例 */  
-    public static Singleton getInstance() {  
+    public static Singleton  getInstance() {
         return SingletonFactory.instance;  
     }  
   
